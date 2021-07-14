@@ -369,7 +369,7 @@ footer p {
     flex-direction: column;
     width: 95%;
     justify-content: flex-start;
-    padding-left: 50px;
+    padding: auto 50px;
   }
   nav {
     padding-right: 30px;
@@ -434,6 +434,7 @@ footer p {
     flex-direction: column;
     width: 95%;
     justify-content: flex-start;
+    padding-left: 20px;
   }
   .container h1 {
     font-size: 36px;
